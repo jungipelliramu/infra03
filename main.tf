@@ -7,5 +7,9 @@ terraform {
   }
 }
 
-provider "azurerm" {
+provider "azurerm" 
+
+
   # Configuration options
+
+  }
